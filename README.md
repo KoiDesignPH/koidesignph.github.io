@@ -2,7 +2,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MY PORTFOLIO</title>
+    <title>KoiDesignPH</title>
+        <!-- add icon link -->
+    <link rel="icon" href=
+"https://scontent.fmnl25-4.fna.fbcdn.net/v/t39.30808-6/347412054_1086055475685009_6217874612499699706_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGaRcVDllLS7IRDo-v7GSs0rCbJsisRnKmsJsmyKxGcqYna_4txy3NRCAtJ0XydBiScEhIuYR_LWyBYwB8hErK4&_nc_ohc=3ahj6GfSW6AAb6oWn-9&_nc_ht=scontent.fmnl25-4.fna&oh=00_AfAO20hqSC93JNBlfZ029B-B9VhYNoxR5HoXEzmOhwimuw&oe=66180C08"
+          type="image/x-icon">
     <style>
         body {
             font-family: Arial, sans-serif;
